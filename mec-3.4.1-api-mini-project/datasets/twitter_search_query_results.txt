@@ -1,0 +1,93 @@
+{'text': '$TSLA : Tesla signs nickel deal with BHP to secure non-Chinese supply | Financial Times https://t.co/5ptJ5vBmTM', 'sentiment': 'positive'}
+{'text': 'RT @BarkMSmeagol: And people complain about @Tesla’s FSD subscription price. \n\n$TSLA\n🥴🤡 $TSLAQ 🤡🥴\nhttps://t.co/UZCPAvuEBb https://t.co/O2y2…', 'sentiment': 'neutral'}
+{'text': 'Some $TSLA shareholders have a tremendous sense of adventure and others are wet blankets.', 'sentiment': 'positive'}
+{'text': 'Credit Suisse ahead of consensus into Q2 EPS for Tesla 📊⚡️ https://t.co/ARjcF15Dw6 $TSLA #Tesla #EV https://t.co/YfGLHmrQGh', 'sentiment': 'neutral'}
+{'text': '@WholeMarsBlog @elonmusk MIND BLOWING STAT\n$TSLA bought Maxwell assets for $218 million in stock in Feb 2019. Based… https://t.co/AP7tUq6VEw', 'sentiment': 'neutral'}
+{'text': 'Tesla’s $TSLA found sellers around QDVWAP while hitting\xa0DVAL https://t.co/Fe51eDqhuM', 'sentiment': 'neutral'}
+{'text': '#CryptoCorner #Podcast 637: #Stocks discussed: (NasdaqGS: $TSLA) (OTC: $ARBKF) (NasdaqGS: $BTBT)… https://t.co/E5HWL9WJhk', 'sentiment': 'neutral'}
+{'text': 'Todays most active stock options $AAPL $NVDA $AMD $MSFT $BABA $AMC $TSLA $FB $LVS https://t.co/QvEIPjlaYl', 'sentiment': 'positive'}
+{'text': 'From July 1st- July 19th my fiancé and I did a 5k mile road trip in our 2020 @Tesla MY. Went down the W. coast WA t… https://t.co/OzACgYecRT', 'sentiment': 'negative'}
+{'text': "The beat goes on. @Teslaq_Snark's beat as play-by-play reporter at $TSLA &amp; Elon's SCTY trial in Delaware. I can't s… https://t.co/TVvvkrP1t9", 'sentiment': 'neutral'}
+{'text': 'via dealbook: Tesla was supposed to be producing cars in Germany by now. Instead it has become a manifestation of w… https://t.co/mwsJqKdjEz', 'sentiment': 'neutral'}
+{'text': '$ADOM\n \n$TSLA\n \n$BLNK\n \n$NIO\n\n$ADOM\n new contracts everyday, CEO Phillip Oldridge locked and loaded RTG! Big things… https://t.co/ytHZNXV20O', 'sentiment': 'negative'}
+{'text': 'Rolls Royce is in an all time low $rycey $msft $tsla $amc https://t.co/HJ3Ks2SJEe', 'sentiment': 'neutral'}
+{'text': '"Fart Entertainment"\n\nBlind Item\n\n"The celebrity CEO is trying to start a record label. He thinks he knows what peo… https://t.co/tMNjlgULmS', 'sentiment': 'negative'}
+{'text': 'Our indicators have given an exit short and go neutral signal for #silver. This resulted in a gain on the previous… https://t.co/3ANfCiRZkv', 'sentiment': 'negative'}
+{'text': 'RT @garyblack00: My investment thesis since I went long $TSLA in 2019 has been:\nAs global EV adoption soars from 3% in 2020 to 24% by 2025…', 'sentiment': 'negative'}
+{'text': 'WE DRINKIN\n#DeltaVariant #COVID19 \n\n$IPA \nWORLD 1ST \n1ST #DELTAVARIANT COCKTAIL TO SHOW VERY STRONG #COVID19 PREVEN… https://t.co/DedFqINcvk', 'sentiment': 'positive'}
+{'text': 'RT @adamhoov: What’s your dream $tsla 🤩', 'sentiment': 'neutral'}
+{'text': 'RT @Umbisam: Reminder $TSLA\n\n𝐓𝐞𝐬𝐥𝐚\nLong-term debt: $9.56B \nCurrent debt: $2.13B\nTotal debt: $11.69B\n\n𝐆𝐞𝐧𝐌𝐨𝐭\nLong-term debt: $72.98B\nCurrent…', 'sentiment': 'negative'}
+{'text': "$CLNV Learn more about how @CleanVisionCorp is doing it's part before time runs out \nhttps://t.co/GcWaHHpGH8\n$TSLA… https://t.co/U8vczAKpo2", 'sentiment': 'positive'}
+{'text': '13:26 -&gt; ATM Call, TSLA 210723C650,   | at 13:25-&gt; 1614 contracts, w/ $5.95,  OI =5425 , when $TSLA at 650.38', 'sentiment': 'neutral'}
+{'text': 'If Apple built a truck… The F-150 Lightning Will Crush the Tesla Cybertruck - $F $TSLA $ARKK $BIDU $WKHS Find out w… https://t.co/3iXdy9bk5E', 'sentiment': 'neutral'}
+{'text': '$TSLA controlling the charging station network is like $F controlling every gas station for the past century.\n\nThe advantages are endless.', 'sentiment': 'negative'}
+{'text': 'RT @LordPente: @Teslaconomics $TSLA https://t.co/Z6qXEN6V88', 'sentiment': 'neutral'}
+{'text': 'RT @Teslaconomics: I love being a Tesla investor. 💕 \n\n$TSLA #Tesla', 'sentiment': 'positive'}
+{'text': 'RT @Teslaconomics: Don’t be surprised if $TSLA claws it’s way back to the green.', 'sentiment': 'negative'}
+{'text': 'RT @TicTocTick: My LIS for S&amp;P500 is 4326.\n\nNow 4346. \n\nIMO if 4326 holds, S&amp;P500 is preparing for a large move higher (into 4396 &amp; beyond)…', 'sentiment': 'positive'}
+{'text': '@HardCall \n$TSLA\n $250 wall 🤣', 'sentiment': 'neutral'}
+{'text': 'RT @matthuang: Elon Musk just shared his portfolio live on #TheBWord:\n\nTSLA\nSpaceX\nBTC\nETH\nDOGE', 'sentiment': 'positive'}
+{'text': 'RT @nargis007: Got $AAPL 165 call calendar  Jul30/Aug 20 for 38c. Pure lotto. Lets C if this can hold 145 going into #earnigns or better ye…', 'sentiment': 'positive'}
+{'text': '$TSLA go ahead and start the earnings run up now https://t.co/RUNtUTHOKc', 'sentiment': 'neutral'}
+{'text': 'RT @kirillklip: #Tesla technological advancement coupled with the volume mass production will bring the cost for electric cars down. #EVs a…', 'sentiment': 'negative'}
+{'text': 'RT @kirillklip: #Tesla is fighting back!\n\nModel 3 &amp; Model Y are the best selling #ElectricCars Globally in May, but competition is heating…', 'sentiment': 'positive'}
+{'text': 'RT @kirillklip: Check out New Resource NR!  \n\nVideo Update #TNRGold🔋 $TNR.v Lithium Royalty Holding: #Ganfeng To Invest $600M In #MarianaLi…', 'sentiment': 'positive'}
+{'text': '$IPA \nWORLD 1ST\n#usa \n1ST #DELTAVARIANT COCKTAIL TO SHOW #COVID19 STRONG PREVENTION ANTI-BODIES \n\n$AMC $DIDI #CHINA… https://t.co/FVsm17RoBl', 'sentiment': 'positive'}
+{'text': "RT @ChrisDungeon: $TSLA Cybertruck is no doubt ruining Legacy Auto ICE truck order books \n\nFirst Ford's F-150, now GM... Are chips the scap…", 'sentiment': 'positive'}
+{'text': '$TSLA #Tesla @elonmusk @dogecoin @dogecoin_devs @MattWallace888 \nWould love to have Tesla in my country South Afric… https://t.co/4NQth6jykp', 'sentiment': 'positive'}
+{'text': 'RT @truefreedom2020: Which brokers/platforms have been running throughout the outage today without a problem? Thank you in advance for shar…', 'sentiment': 'neutral'}
+{'text': 'Which brokers/platforms have been running throughout the outage today without a problem? Thank you in advance for s… https://t.co/6aFDpyyfEr', 'sentiment': 'neutral'}
+{'text': 'Alert - Chart: TSLA  78 Min   #8 | Study: Exit Position Alert | Formula: =AND(ID1.SG1 &lt; ID2.SG1, ID1.SG1[-1] &gt; ID2.… https://t.co/St4XPvHv2M', 'sentiment': 'neutral'}
+{'text': '13:21 -&gt; ATM Call, TSLA 210723C650,   | at 13:20-&gt; 1054 contracts, w/ $5.90,  OI =5425 , when $TSLA at 649.92', 'sentiment': 'neutral'}
+{'text': 'Got $AAPL 165 call calendar  Jul30/Aug 20 for 38c. Pure lotto. Lets C if this can hold 145 going into #earnigns or… https://t.co/WlxeE8x932', 'sentiment': 'positive'}
+{'text': 'RT @JDRinvestments: 🤩 Wow!! So much hydrogen news!! I can’t keep up! Buy the dip?! Sure, why not!! \n\n$PLUG $BE $FCEL $BLDP $GEVO $CLSK $HYS…', 'sentiment': 'positive'}
+{'text': '"...the company is not the stock"- JB.\n\nThe state of affairs with $tsla is reminiscent of Amazon\'s share price "cri… https://t.co/U70oyNrWBW', 'sentiment': 'neutral'}
+{'text': 'RT @davidtayar5: Goldman on Tesla’s plans to open its charging network - initial thoughts and analysis 👇🏻\n\n$TSLA https://t.co/BLbDS6ThxU', 'sentiment': 'neutral'}
+{'text': '$TSLA, Bullish Reversal, at Support level S1 E50 , at Resistance level YLo BBLo , 1 Minute, 13:23', 'sentiment': 'neutral'}
+{'text': '#Options Flow Stream Update $AMZN $TSLA $CZR $C $COP $SNOW $SPY $NDX $SPX #OptionsTrading #OptionsFlow… https://t.co/VaHh4JDxhz', 'sentiment': 'neutral'}
+{'text': 'RT @invest_answers: Takeaways from #TheBWord “I pump but I don’t Dump” “I own TSLA, SpaceX and #Bitcoin, but the #Bitcoin I own is worth si…', 'sentiment': 'positive'}
+{'text': '$DAL $UAL $JBLU $PENN $LUV $DKNG $SPY $AEI $APPL $TPGY $AAL $LEDS $ARKK $PSTG $BYD $AHT $BABA $TSLA $FUBO $CCIV… https://t.co/5Px2rzaVUb', 'sentiment': 'neutral'}
+{'text': '#Options Flow Stream Update $AMZN $TSLA $CZR $C $COP $SNOW $SPY $NDX $SPX #OptionsTrading #OptionsFlow… https://t.co/2v3EhJgxJS', 'sentiment': 'neutral'}
+{'text': 'RT @YashD44424109: $150 $TSLA calls.\n@AjTrader7 \n\nMark Moses course lesson#8 is a game changer. Right on the money @MarkMoses777 #ACT', 'sentiment': 'negative'}
+{'text': '#Options Flow Stream Update $AMZN $TSLA $CZR $C $COP $SNOW $SPY $NDX $SPX #OptionsTrading #OptionsFlow… https://t.co/LuovHkBNuY', 'sentiment': 'neutral'}
+{'text': "If you're interested in $TSLA's Solar City caper/trial this coverage is magnificent. https://t.co/lGSp8UWTRb", 'sentiment': 'positive'}
+{'text': '$TSLA, Bearish Reversal, at Support level S1 E50 , at Resistance level YLo BBLo , 1 Minute, 13:21', 'sentiment': 'neutral'}
+{'text': 'RT @PlainSite: Funny, this part being omitted from SEC filings for years while Elon Musk attacked short sellers. $TSLA https://t.co/MxAOAUs…', 'sentiment': 'positive'}
+{'text': '$150 $TSLA calls.\n@AjTrader7 \n\nMark Moses course lesson#8 is a game changer. Right on the money @MarkMoses777 #ACT', 'sentiment': 'negative'}
+{'text': '@mcjamez owner was a tsla shortseller I think.. car catches fire day after delivery.. enough to say case closed ;-)', 'sentiment': 'negative'}
+{'text': '#Options Flow Stream Update $AAPL $AMZN $TSLA $NFLX $SNAP $SNOW $NDX \u200b$SPY $SPX #OptionsTrading #OptionsFlow… https://t.co/E73lStipZm', 'sentiment': 'neutral'}
+{'text': 'Elon Musk liked a tweet from TESLARATI #Tesla $TSLA https://t.co/MSEY6YXZmk', 'sentiment': 'positive'}
+{'text': 'TBH if @elonmusk wanted ; he can crash the crypto market if he wills it. The market &amp; it’s liquidity is kinda tiny.… https://t.co/UqrABF5hMd', 'sentiment': 'neutral'}
+{'text': '$NIO $UXIN $TSLA let’s get green!', 'sentiment': 'negative'}
+{'text': 'We have identified an unusual $TSLA sweep that expires on July 30, 2021 with a strike price of $600.00.\n\n1,005 PUT… https://t.co/YEDrm6yQHc', 'sentiment': 'positive'}
+{'text': '$BMBL Aug swing already working\n$LMT weekly printing \nAnd green on $TSLA rebuy', 'sentiment': 'negative'}
+{'text': 'RT @15minofPham: Mid-day options volume &gt; 20K, OI &lt; 7K: $AMZN $MSFT $LVS $TSLA $AAPL $PBR https://t.co/0XNtEFyOlS', 'sentiment': 'neutral'}
+{'text': '@OptionsCharting I was early on TSLA. Took a few paper cuts  just when I have up that was the bottom. Figures', 'sentiment': 'negative'}
+{'text': 'When you think "tech company," you think asset light, low cap ex, high margins, efficiency etc.\n\nTesla is none of t… https://t.co/s1M70YczgF', 'sentiment': 'positive'}
+{'text': 'RT @garyblack00: 2/ $TSLA 2022 setup is same as 2020:\n- Capacity about to double as Austin/Berlin go live\n- New CyTruck/M-A/Semi will drama…', 'sentiment': 'positive'}
+{'text': '$TSLA, Bullish Reversal, at Support level S1 E50 , at Resistance level YLo BBLo , 1 Minute, 13:18', 'sentiment': 'neutral'}
+{'text': '$TSLA, $TSLA Unusual Options Activity Insight: Tesla - https://t.co/hXPjjII0hE', 'sentiment': 'positive'}
+{'text': 'Mid-day options volume &gt; 20K, OI &lt; 7K: $AMZN $MSFT $LVS $TSLA $AAPL $PBR https://t.co/0XNtEFyOlS', 'sentiment': 'neutral'}
+{'text': '13:16 -&gt; ATM Call, TSLA 210723C650,   | at 13:15-&gt; 1531 contracts, w/ $5.86,  OI =5425 , when $TSLA at 649.79', 'sentiment': 'neutral'}
+{'text': '13:11 -&gt; ATM Call, TSLA 210723C650,   | at 13:10-&gt; 759 contracts, w/ $5.45,  OI =5425 , when $TSLA at 649.79', 'sentiment': 'neutral'}
+{'text': 'Read this news on Apple News – Crypto Corner Podcast 637: Stocks discussed: (NasdaqGS:TSLA) (OTC:ARBKF) (NasdaqGS:B… https://t.co/JcznqrBPmu', 'sentiment': 'neutral'}
+{'text': 'RT @InvestorIdeas: Battery Tech Safety Snapshot (NYSE American: $KULR) (NASDAQ: $TSLA) (NASDAQ: $ENVX) (NASDAQ: $KNDI) https://t.co/1opKjkM…', 'sentiment': 'neutral'}
+{'text': 'Under $500 and a dream now over 4K🚀🚀 show me love ❤️🥳\n\n———————————————\n$AAPL $AMD $BA $FB $NFLX $NIO $NVDA $JPM… https://t.co/XPIJWk8biQ', 'sentiment': 'positive'}
+{'text': '#Ganfeng increased its stake in #MarianaLithium 🇦🇷 closer to 100% with 89.9% ownership according to filings, receiv… https://t.co/HjRttDKCZ7', 'sentiment': 'neutral'}
+{'text': 'Good thing $tsla has D&amp;O insurance…. Err wait. https://t.co/O7B3XcdIQl', 'sentiment': 'positive'}
+{'text': 'RT @InvestorIdeas: #Battery #Tech #Safety Snapshot (NYSE American: $KULR) (NASDAQ: $TSLA) (NASDAQ: $ENVX) (NASDAQ: $KNDI); @KULRTech @Tesla…', 'sentiment': 'neutral'}
+{'text': 'RT @InvestorIdeas: Evolving from #EV’s to #ElectronicDevices to #Space - Safety Concerns Drive Future Innovation; (NYSE American: $KULR) (N…', 'sentiment': 'neutral'}
+{'text': 'RT @HeroDividend: ⚡️Invest in the future⚡️\n\nCrypto: $BTC $ETH\nGaming: $SE $MSFT\nTravel: $ABNB $SPCE\nReal estate: $RDFN $Z\nAdvertising: $TTD…', 'sentiment': 'positive'}
+{'text': 'RT @InvestorIdeas: #Battery #Tech #Safety Snapshot (NYSE American: $KULR) (NASDAQ: $TSLA) (NASDAQ: $ENVX) (NASDAQ: $KNDI)- @KULRTech @Tesla…', 'sentiment': 'neutral'}
+{'text': 'RT @InvestorIdeas: Evolving from #EV’s to #ElectronicDevices to #Space - Safety Concerns Drive Future Innovation- (NYSE American: $KULR) (N…', 'sentiment': 'neutral'}
+{'text': 'RT @InvestorIdeas: Battery Tech Safety Snapshot (NYSE American: $KULR) (NASDAQ: $TSLA) (NASDAQ: $ENVX) (NASDAQ: $KNDI) https://t.co/WCB1v56…', 'sentiment': 'neutral'}
+{'text': 'RT @lsplayq: We launched DOGE freeQ - Earn DOGE app.\n\n$DOGE\n\nDOGE freeQ\nhttps://t.co/kRtSFpwF2l\n\n#Bitcoin #Ethereum #Solana #TRON #xrp #Blo…', 'sentiment': 'neutral'}
+{'text': "RT @lsplayq: World's largest cryptocurrency exchange\n\n☆Binance☆\n\nGet 20% of the transaction fee.\nhttps://t.co/PoASCm3vUb\n\n#bitcoin #Ethereu…", 'sentiment': 'neutral'}
+{'text': '$TSLA, Bearish Reversal, at Support level S1 E50 , at Resistance level YLo BBLo , 1 Minute, 13:15', 'sentiment': 'neutral'}
+{'text': 'RT @InvestorIdeas: #Battery #Tech #Safety Snapshot (NYSE American: $KULR) (NASDAQ: $TSLA) (NASDAQ: $ENVX) (NASDAQ: $KNDI): @KULRTech @Tesla…', 'sentiment': 'neutral'}
+{'text': 'RT @AlbatrossGolden: Welcome to our new twitter page for calls and investment ideas. Make sure to follow us, turn on notifications and chec…', 'sentiment': 'positive'}
+{'text': 'RT @CryptoNewswire: Tesla May Accept Bitcoin Once Crypto Mining Makes Green Shift - https://t.co/TUXDTleegi $BTC $TSLA #investing #cryptocu…', 'sentiment': 'negative'}
+{'text': 'RT @InvestorIdeas: Crypto Corner Podcast 637: Stocks discussed: (NasdaqGS: TSLA) (OTC: ARBKF) (NasdaqGS: BTBT) https://t.co/UHozs4dy7a', 'sentiment': 'neutral'}
+{'text': 'RT @InvestorIdeas: 📣 New Podcast! "Crypto Corner Podcast 637: Stocks discussed: (NasdaqGS: TSLA) (OTC: ARBKF) (NasdaqGS: BTBT)" on @Spreake…', 'sentiment': 'positive'}
+{'text': 'Oversold on Hourly  \rhttps://t.co/2Hf0ZbjpKC \r$TSLA  662.17  to 649.11 \r$SAFM  184.67  to 182.11', 'sentiment': 'neutral'}
+{'text': 'RT @InvestorIdeas: Crypto Corner Podcast 637: Stocks discussed: (NasdaqGS: TSLA) (OTC: ARBKF) (NasdaqGS: BTBT) https://t.co/N1aqpO21Ap #Cry…', 'sentiment': 'neutral'}
