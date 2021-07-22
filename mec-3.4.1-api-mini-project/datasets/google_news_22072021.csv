@@ -1,12 +1,12 @@
 ,ticker,links,article_text,publisher
-0,AAPL,https://www.cnbc.com/2021/07/21/a-key-stat-hidden-in-verizons-report-could-spell-good-news-for-apple.html,,cnbc
-1,AAPL,https://www.fool.com/investing/2021/07/19/why-apple-stock-was-falling-monday/,,the motley fool
-2,AAPL,https://www.fxstreet.com/news/apple-aapl-stock-forecast-why-is-apple-falling-will-results-boost-stock-the-stock-price-202107191034,,fxstreet
-3,AAPL,https://www.fool.com/investing/2021/07/20/what-disney-and-apple-investors-should-look-for-du/,,the motley fool
-4,NFLX,https://www.fool.com/investing/2021/07/21/why-netflix-stock-fell-nearly-5-on-wednesday/,,the motley fool
-5,NFLX,https://www.fxstreet.com/news/netflix-nflx-stock-price-and-forecast-earnings-are-mixed-but-let-the-games-begin-202107211026,,fxstreet
-6,NFLX,https://www.investors.com/news/technology/netflix-stock-netflix-edges-subscriber-target-but-earnings-miss/,,investor's business daily
-7,NFLX,https://www.forbes.com/sites/greatspeculations/2021/07/16/whats-next-for-netflix-stock-after-its-11-rally/,,forbes
+0,NFLX,https://www.fool.com/investing/2021/07/21/why-netflix-stock-fell-nearly-5-on-wednesday/,,the motley fool
+1,NFLX,https://www.fxstreet.com/news/netflix-nflx-stock-price-and-forecast-earnings-are-mixed-but-let-the-games-begin-202107211026,,fxstreet
+2,NFLX,https://www.investors.com/news/technology/netflix-stock-netflix-edges-subscriber-target-but-earnings-miss/,,investor's business daily
+3,NFLX,https://www.forbes.com/sites/greatspeculations/2021/07/16/whats-next-for-netflix-stock-after-its-11-rally/,,forbes
+4,NVDA,https://www.fool.com/investing/2021/07/21/why-nvidia-stock-jumped-today/,,the motley fool
+5,NVDA,https://www.nasdaq.com/articles/is-nvidia-stock-a-buy-now-after-the-4-to-1-stock-split-2021-07-20,,nasdaq
+6,NVDA,https://pulse2.com/nvda-stock-4-for-1-split-goes-into-effect/,,pulse 2.0
+7,NVDA,https://www.fool.com/investing/2021/07/22/why-nvidia-stock-was-up-on-thursday/,,the motley fool
 8,ZM,https://pulse2.com/zm-stock-380-target-from-citi/,,pulse 2.0
 9,ZM,https://www.profitconfidential.com/news/zoom-video-communications-inc-zm-stock/,,profit confidential
 10,ZM,https://finance.yahoo.com/news/zoom-video-communications-zm-stock-214509116.html,,yahoo finance
@@ -15,15 +15,10 @@
 13,ADBE,https://www.marketbeat.com/instant-alerts/nasdaq-adbe-insider-buying-and-selling-2021-07-2-3/,,marketbeat
 14,ADBE,https://www.fool.com/investing/2021/07/01/3-reasons-why-adobe-stock-is-dirt-cheap-right-now/,,the motley fool
 15,ADBE,https://finance.yahoo.com/news/adobe-inc-adbe-great-investment-163853048.html,,yahoo finance
-16,ADBE,https://www.fool.com/investing/2021/07/22/3-top-tech-stocks-to-buy-during-a-recession/,,the motley fool
-17,ADBE,https://www.fool.com/investing/2021/06/23/reasons-buy-adobe-stock-after-strong-q2-earnings/,,the motley fool
-18,MSFT,https://finance.yahoo.com/news/did-participate-microsofts-nasdaq-msft-083738605.html,,yahoo finance
-19,MSFT,https://finance.yahoo.com/news/10-best-stocks-buy-according-180618557.html,,yahoo finance
-20,MSFT,https://www.barrons.com/articles/microsoft-stock-hits-new-high-as-street-raises-price-targets-ahead-of-earnings-51626965343,,barron's
-21,MSFT,https://finance.yahoo.com/news/microsoft-msft-earnings-expected-grow-190207796.html,,yahoo finance
-22,MSFT,https://finance.yahoo.com/news/microsoft-msft-stock-moves-1-214509891.html,,yahoo finance
-23,TSLA,https://finance.yahoo.com/news/tesla-tsla-stock-sinks-market-214509509.html,,yahoo finance
-24,TSLA,https://www.fool.com/investing/2021/07/20/why-tesla-stock-popped-again-tuesday/,,the motley fool
-25,TSLA,https://www.coinspeaker.com/tsla-musk-tesla-supercharger/,,coinspeaker
-26,TSLA,https://www.fxstreet.com/news/tesla-tsla-stock-price-and-forecast-why-is-tesla-stock-moving-202107221014,,fxstreet
-27,TSLA,https://electrek.co/2021/07/20/tesla-tsla-could-make-more-money-from-software-subscription-than-hardware/,,electrek
+16,ADBE,https://www.fool.com/investing/2021/06/23/reasons-buy-adobe-stock-after-strong-q2-earnings/,,the motley fool
+17,ADBE,https://www.fool.com/investing/2021/07/22/3-top-tech-stocks-to-buy-during-a-recession/,,the motley fool
+18,TSLA,https://finance.yahoo.com/news/tesla-tsla-stock-sinks-market-214509509.html,,yahoo finance
+19,TSLA,https://www.fool.com/investing/2021/07/20/why-tesla-stock-popped-again-tuesday/,,the motley fool
+20,TSLA,https://www.coinspeaker.com/tsla-musk-tesla-supercharger/,,coinspeaker
+21,TSLA,https://www.fxstreet.com/news/tesla-tsla-stock-price-and-forecast-why-is-tesla-stock-moving-202107221014,,fxstreet
+22,TSLA,https://electrek.co/2021/07/20/tesla-tsla-could-make-more-money-from-software-subscription-than-hardware/,,electrek
